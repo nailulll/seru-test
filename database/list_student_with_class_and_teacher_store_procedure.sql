@@ -1,0 +1,1 @@
+CALL get_student_class_teacher();
